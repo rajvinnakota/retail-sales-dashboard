@@ -2316,24 +2316,8 @@
       <zones>
         <zone h='100000' id='7' type-v2='layout-basic' w='100000' x='0' y='0'>
           <zone h='98222' id='44' param='horz' type-v2='layout-flow' w='99000' x='500' y='889'>
-            <zone h='98222' id='41' param='horz' type-v2='layout-flow' w='89000' x='500' y='889'>
-              <zone h='98222' id='26' param='horz' type-v2='layout-flow' w='89000' x='500' y='889'>
-                <zone h='98222' id='17' param='horz' type-v2='layout-flow' w='89000' x='500' y='889'>
-                  <zone h='98222' id='10' param='horz' type-v2='layout-flow' w='89000' x='500' y='889'>
-                    <zone h='98222' id='8' type-v2='layout-basic' w='89000' x='500' y='889' />
-                  </zone>
-                </zone>
-              </zone>
-            </zone>
-            <zone fixed-size='160' h='98222' id='43' is-fixed='true' param='vert' type-v2='layout-flow' w='10000' x='89500' y='889'>
-              <zone h='7222' id='45' name='Top 5 Products by Sales' pane-specification-id='0' param='[federated.1wc12ii0be69kd16nbm0r00sembc].[usr:Calculation_1766044428098854912:qk]' type-v2='color' w='10000' x='89500' y='889'>
-                <zone-style>
-                  <format attr='border-color' value='#000000' />
-                  <format attr='border-style' value='none' />
-                  <format attr='border-width' value='0' />
-                  <format attr='margin' value='4' />
-                </zone-style>
-              </zone>
+            <zone h='98222' id='41' param='horz' type-v2='layout-flow' w='99000' x='500' y='889'>
+              <zone h='98222' id='8' type-v2='layout-basic' w='99000' x='500' y='889' />
             </zone>
           </zone>
           <zone-style>
@@ -2476,10 +2460,10 @@
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='2000' minheight='2000' sizing-mode='vscroll' />
+          <size maxheight='1950' minheight='1950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='74' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='73' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
+            <zone h='100000' id='76' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='75' param='vert' type-v2='layout-flow' w='99000' x='500' y='889'>
                 <zone fixed-size='50' h='7778' id='2' type-v2='text' w='100000' x='0' y='0'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='30'>RETAIL SALES DASHBOARD</run>
@@ -2591,15 +2575,6 @@
                     <format attr='margin' value='4' />
                     <format attr='padding' value='0' />
                     <format attr='background-color' value='#ffffff' />
-                  </zone-style>
-                </zone>
-                <zone h='7222' id='45' name='Top 5 Products by Sales' pane-specification-id='0' param='[federated.1wc12ii0be69kd16nbm0r00sembc].[usr:Calculation_1766044428098854912:qk]' type-v2='color' w='10000' x='89500' y='889'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                    <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
                 <zone fixed-size='196' h='24444' id='52' is-fixed='true' name='Avg Basket Size' w='33312' x='66688' y='75556'>
@@ -2995,7 +2970,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='52' />
+      <active id='-1' />
       <simple-id uuid='{823357CC-1F3D-4A5F-AFF8-2155DBAAD4E4}' />
     </window>
   </windows>
