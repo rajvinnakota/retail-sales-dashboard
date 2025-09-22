@@ -1,5 +1,9 @@
 # Retail Sales Performance Dashboard
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+
 Interactive Tableau dashboard tracking retail sales KPIs, trends, and customer/product insights.
 
 ## Project Overview
